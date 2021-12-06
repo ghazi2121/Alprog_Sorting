@@ -120,7 +120,7 @@ public class sorting1 {
 	
 	public static void insertionSortAsc() {
 		// BELUM dibuat males
-
+		// gaboleh males
 				
 	}
 	
